@@ -22,3 +22,9 @@ Role and Responsibilities of Scrum Master and Product Owner:
     -Spring Retrospective Meeting
         -Discuss completed work completed during the sprint and move incomplete work to the backlog
         -ends the sprint
+
+Differentiate Between Epic, Story, Bug, and tasks
+    -Epic: A large body of work that can be broken down into multiple stories
+    -Story: A software system requirment that can be described in a few sentences
+    -Tasks: Smaller technical work that is needed to completed a story
+    -Bug: defects or issuses that prevent a task, story, or epic from being functoinal
