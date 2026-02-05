@@ -6,3 +6,9 @@ Pros and Cons of Agile Development:
         -Jira is a confusing website that feels terrible to use
         -Less work can get done if devlopers are too focused on Jira
 
+Role and Responsibilities of Scrum Master and Product Owner:
+    -The scrum master is focus on making sure the team follows scrums principles to make sure development goes smoothly, 
+    so doing things such as daily scrums and spring reviews to make sure the team is able to do their work effienciently.
+    -The product owner is in charge of so they are the ones setting what the epics and stories are and what tasks should be completed in each sprint.
+    they are making sure that the team is working on effiencent tasks.
+
