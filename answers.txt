@@ -12,3 +12,13 @@ Role and Responsibilities of Scrum Master and Product Owner:
     -The product owner is in charge of so they are the ones setting what the epics and stories are and what tasks should be completed in each sprint.
     they are making sure that the team is working on effiencent tasks.
 
+3 Types of Meeting During a Sprint Cycle:
+    -Spring Planning Meeting
+        -Decide on what needs to be completed for the next sprint
+        -Assigns story points and assigns stories to teams
+    -Daily Scrum
+        -Daily meeting during spring
+        -Team members discuss work completed, work plans, and blockers
+    -Spring Retrospective Meeting
+        -Discuss completed work completed during the sprint and move incomplete work to the backlog
+        -ends the sprint
