@@ -1,1 +1,8 @@
+Pros and Cons of Agile Development:
+    Pros:
+        -The way tasks are orgaized into stories and epics makes it very flexible
+        -It is easier to collaberate with other people when all the tasks are broken down and displayed on Jira
+    Cons:
+        -Jira is a confusing website that feels terrible to use
+        -Less work can get done if devlopers are too focused on Jira
 
